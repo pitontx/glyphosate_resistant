@@ -1,0 +1,62 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pyc
+
+# Conda & virtualenv
+.env/
+.venv/
+env/
+venv/
+*.env
+*.conda
+*.ipynb_checkpoints
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode or other IDEs
+.vscode/
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled C/C++/Fortran files
+*.o
+*.out
+*.mod
+*.a
+*.exe
+
+# Test coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Pytest
+.pytest_cache/
+
+# MyPy and Pyright
+.mypy_cache/
+.pyright/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Results and Downloads
+data/result/
+data/download/
+
+# Project-specific logs
+DeepProZyme/logs/
+
